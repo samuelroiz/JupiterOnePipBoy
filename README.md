@@ -15,9 +15,9 @@ Each commit in the repository is uniquely identified. Refer to the `commit.uuid`
 For users who obtain their copy of JupiterOnePipBoy from secondary sources, we provide detailed instructions on how to verify the integrity of the source code. Please see the **Verifying Code Authenticity** section for guidance.
 
 ## Contacting the Developers
-We encourage open communication regarding JupiterOnePipBoy and welcome any inquiries or bug reports via our dedicated forum at https://jupiterone.com/forum/. Anonymous posts are allowed to ensure privacy and ease of access.
+We encourage open communication regarding JupiterOnePipBoy and welcome any inquiries or bug reports via our dedicated forum at URL HERE. Anonymous posts are allowed to ensure privacy and ease of access.
 
-For security-sensitive issues, please contact the development team directly at our secure email address: devteam at jupiterone dot com.
+For security-sensitive issues, please contact the development team directly at our secure email address: EMAIL.
 
 ### Help Commands
 ![Help Commands](images/Help-Commands.jpg)  
@@ -36,6 +36,6 @@ This image seems to illustrate an example of using the Pip-Boy command, possibly
 This image might display the interface or prompt where users input data related to services, showing how to configure or specify service-related settings or options.
 
 ## License
-JupiterOnePipBoy is released under the MIT license. This choice supports open development and distribution while ensuring that contributions remain free for commercial or private use. See https://jupiterone.com/license.html for license details.
+JupiterOnePipBoy is released under the MIT license. This choice supports open development and distribution while ensuring that contributions remain free for commercial or private use. See [https://samuel](https://samuelroiz.github.io/index.html) for license details.
 
 Please note that while we accept contributions, we require that all contributors agree to release their submissions under the same MIT license to maintain the project's licensing integrity.
