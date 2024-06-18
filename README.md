@@ -28,7 +28,7 @@ This image likely displays a list of help commands available in the software or 
 This image probably shows examples of commands along with their outputs, demonstrating how to execute specific tasks in the application and what results to expect.
 
 ### Pip-Boy Command Example
-![Pip-Boy Command Example](images/pip-boy-command-example.jpg)  
+![Pip-Boy Command Example](images//pip-boy-command-example.jpg)  
 This image seems to illustrate an example of using the Pip-Boy command, possibly within a gaming context or a specialized software interface.
 
 ### Services Input
